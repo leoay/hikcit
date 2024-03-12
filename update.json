@@ -1,0 +1,23 @@
+{
+    "version": "v0.1.2",
+    "notes": "Test version",
+    "pub_date": "2024-03-12T19:25:57Z",
+    "platforms": {
+      "darwin-x86_64": {
+        "signature": "Content of app.tar.gz.sig",
+        "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-x86_64.app.tar.gz"
+      },
+      "darwin-aarch64": {
+        "signature": "Content of app.tar.gz.sig",
+        "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-aarch64.app.tar.gz"
+      },
+      "linux-x86_64": {
+        "signature": "Content of app.AppImage.tar.gz.sig",
+        "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
+      },
+      "windows-x86_64": {
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUR3dUOGxESHFEU3NnZGpiV3JsM0pxcFZXV2loZjBvUXo4U3JvNTMreVlUWU82dzNrNU5YNzg2cSs1dzNYZC9JYnZTRzdrVjIrNmhXOWpvYnVNY05mN29pMTdVT1dhOUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEwMjQyNjYxCWZpbGU6SElLQ0lUXzAuMS4yX3g2NF9lbi1VUy5tc2kuemlwCnF3UUxidjYrdURQbFpyRGttemVjUXNyV0g1Y0pJa2laamNYQkM5dHJxaGRlMnNLem9LRW91WFFWNlhzNCtLYzdsOTgzUG4yQUo0b3ZEN1l2WGFHUEJ3PT0K",
+        "url": "https://10.20.98.21:7667/assets/v_0_1_2/HIKCIT_0.1.2_x64_en-US.msi.zip"
+      }
+    }
+  }
